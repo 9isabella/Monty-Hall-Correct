@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+@import url('https://fonts.googleapis.com/css?family=Squada+One');
+
+.results{
+  text-align: center;
+  font-size: 50px;
+  color: #AB8D3F;
+}
+
+#doorOneSelect, #doorTwoSelect, #doorThreeSelect{
+  border: 5px solid #691D2A;
+}
+
+body{
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 5%;
+  background-color: #691D2A !important;
+  font-family: 'Squada One', cursive !important;
+}
+
+h1{
+  font-family: 'Luckiest Guy', cursive !important;
+  color: #AB8D3F !important;
+}
+
+#simDiv{
+  margin-left: 25%;
+  margin-top: 20px;
+}
+
+#winsWhenStayed, #winsWhenSwitched{
+  font-size: 20px;
+  color: grey;
+}
+
+.btn{
+  font-size: 20px !important;
+}
